@@ -10,7 +10,9 @@ This project records resources for RNA, which contains RNA biology (RNA structur
 - [RNA-related Deep Learning](#RNA-ML/DL)
 
 ### RNA Structure
- ####  RNA 一级结构
+ ####  一级结构
+ * [mRNA → protein] (https://www.bio.pku.edu.cn/data/upload/month_201210/2012_autumn-molecular_biology-06_cpPJcj.pdf)
+ * [ARES] (https://www.qbitai.com/2021/08/27997.html)
  ####  二级结构
  ####  三级结构
 
